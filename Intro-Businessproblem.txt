@@ -1,8 +1,0 @@
-Problem: Finding the best location in GTA to open a Chinese food market
-Detail: Mr. Chen is a new immigrant who owned a chain supermarket company back in China. 
-He would like to apply his business talents in the Canadian market.
-With everything else prepared, he now needs to know which community is the best choice for him.
-His requirements for the ideal place are:
-1. large Chinese population;
-2. few competitors;
-3. reasonable rent;
